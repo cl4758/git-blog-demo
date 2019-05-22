@@ -5,3 +5,5 @@ test1
 test2
 continuing 
 end local test
+new test
+staging and committing
