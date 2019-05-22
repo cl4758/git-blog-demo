@@ -1,9 +1,0 @@
-Adding some content from test branch
-test
-adding some new content locally
-test1
-test2
-continuing 
-end local test
-new test
-staging and committing
